@@ -16,5 +16,14 @@ router.route("/")
         }
     })
 
+router.route("/:id")
+    .get((req, res) => {
+        const selectedArticle = blogs.find(blog => blog.id === req.params.id );
+        if (!selectedArticle) return res.status(404).send("Article #ID is not valid.");
+        res.status(200).json(selectedArticle)
+    })
+
+
+
 
 export default router;

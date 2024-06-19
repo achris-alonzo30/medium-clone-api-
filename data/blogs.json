@@ -1,62 +1,83 @@
 [
   {
+    "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
     "title": "Understanding JavaScript Closures",
     "date_created": "Jun 15 2023",
     "author": "Alice Smith",
+    "image": "http://localhost:5174/images/javascript.png",
     "description": "A comprehensive guide to understanding closures in JavaScript and how to use them effectively."
+    
   },
   {
+    "id": "c9bf9e57-1685-4c89-bafb-ff5af830be8a",
     "title": "A Deep Dive into React Hooks",
     "date_created": "May 20 2023",
     "author": "Bob Johnson",
+    "image": "http://localhost:5174/images/react-logo.png",
     "description": "Exploring the power of React Hooks and how they can be used to manage state and side effects in your React applications."
   },
   {
+    "id": "16fd2706-8baf-433b-82eb-8c7fada847da",
     "title": "Building a RESTful API with Express",
     "date_created": "Apr 10 2023",
     "author": "Charlie Brown",
+    "image": "http://localhost:5174/images/api.png",
     "description": "Step-by-step tutorial on building a RESTful API using Express, a popular Node.js framework."
   },
   {
+    "id": "4bdc3c8a-7f21-4d6c-8c91-0e1dd5fdd872",
     "title": "CSS Grid Layout: A Beginner's Guide",
     "date_created": "Mar 25 2023",
     "author": "Dana White",
+    "image": "http://localhost:5174/images/css.png",
     "description": "An introduction to CSS Grid Layout, with examples and best practices for creating responsive web designs."
   },
   {
+    "id": "6597080b-4f46-4a43-bad0-4c2b87f8f15d",
     "title": "Mastering Python for Data Science",
     "date_created": "Feb 15 2023",
     "author": "Eve Davis",
+    "image": "http://localhost:5174/images/python.png",
     "description": "A detailed guide on using Python for data science, including libraries like pandas, NumPy, and Matplotlib."
   },
   {
+    "id": "39ba0fdb-4cc0-41a7-b0f5-9e1da369d460",
     "title": "The Basics of Version Control with Git",
     "date_created": "Jan 30 2023",
     "author": "Frank Green",
+    "image": "http://localhost:5174/images/git.png",
     "description": "Learn the fundamentals of version control with Git, including how to create repositories, commit changes, and manage branches."
   },
   {
+    "id": "f285c380-342f-4d46-9f10-e7d8f8c7d3bc",
     "title": "Introduction to Machine Learning with scikit-learn",
     "date_created": "Dec 10 2022",
     "author": "Grace Lee",
+    "image": "http://localhost:5174/images/scikit.png",
     "description": "A beginner's guide to machine learning using scikit-learn, covering essential algorithms and techniques."
   },
   {
+    "id": "7d3e0a64-5f84-4cdb-b805-bfcae58eddd5",
     "title": "Building Interactive UIs with Vue.js",
     "date_created": "Nov 05 2022",
     "author": "Henry Walker",
+    "image": "http://localhost:5174/images/vue.png",
     "description": "Learn how to create dynamic and interactive user interfaces using Vue.js, a progressive JavaScript framework."
   },
   {
+    "id": "7f4c9f26-6c1a-41a9-9e8b-0cd2e8fbcfa2",
     "title": "Getting Started with TypeScript",
     "date_created": "Oct 18 2022",
     "author": "Isabel Martinez",
+    "image": "http://localhost:5174/images/typescript.png",
     "description": "An introduction to TypeScript, a typed superset of JavaScript, and how it can improve your development workflow."
   },
   {
+    "id": "d92e0d69-2d4b-4c51-b8b8-27f95f1a68e7",
     "title": "Optimizing Web Performance",
     "date_created": "Sep 12 2022",
     "author": "Jack Wilson",
+    "image": "http://localhost:5174/images/web.png",
     "description": "Tips and techniques for optimizing the performance of your web applications to deliver a faster and smoother user experience."
   }
 ]
